@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/SakpotYT/psxscripts/main/3005caf591.lua", true))()
